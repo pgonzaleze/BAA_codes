@@ -4,7 +4,7 @@ This repository includes the code to perform a random forest classifier model, i
 
 Add links to the data here
 
-To run the code:
+To run the code: \
 i) download the jupyter notebook and BAA.csv files
 ii) create a separate directory and store the files there 
 iii) run the jupyter notebook file
