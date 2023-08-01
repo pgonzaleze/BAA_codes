@@ -1,6 +1,6 @@
 # Repository regarding the paper titled "Integrating equity-focused planning into coral bleaching management"
  This repository includes the code to perform a random forest classifier model. It also includes the links to retrieve the data used to plot Figure 1.
----
+
 ## Add links to the data here: 
 1. CRW; (https://coralreefwatch.noaa.gov/)
 2. Virgen Urcelay & Donner
