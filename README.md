@@ -1,5 +1,5 @@
 # Repository regarding the paper titled "Integrating equity-focused planning into coral bleaching management"
- This repository contains the a Jupyter Notebook with the code to perform a Random Forest Classifier model, using Python. Additionally, it provides links to retrieve the dataset used to create 'Figure 1,
+ This repository contains the a Jupyter Notebook with the Python script to perform a Random Forest Classifier model, using Python. Additionally, it provides links to retrieve the dataset used to create 'Figure 1,
 
 ## Links to retrieve the publicly available data: 
 1. Bleaching Alerta Areas; Coral Reef Watch (https://coralreefwatch.noaa.gov/)
